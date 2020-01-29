@@ -1,2 +1,2 @@
-# BombermanCliente
-Cliente del juego Bomberman
+# 2019a
+Material de clase de la cursada 2019, primer cuatrimestre
